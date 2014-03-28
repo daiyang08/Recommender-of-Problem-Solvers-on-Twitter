@@ -1,7 +1,10 @@
 Recommender-of-Problem-Solvers-on-Twitter
 =========================================
+This is the project of Network Science course. It mainly helps the user to find the real problem solver from twitter followers according to the specific questions.
+
 Usage:
-	To run our application, please open the command line, run:
+======
+To run our application, please open the command line, run:
 
 >> python recommender.py
 
@@ -19,6 +22,7 @@ Then the user interface would show up. please follow the instructions:
 The rt-polaritydata is the training data set for the Naive Bayes Classifier.
 
 Note:
+=====
 To use the application, please install the following modules:
 1. Python-Twitter
 2. NLTK
