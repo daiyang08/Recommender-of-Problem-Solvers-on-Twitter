@@ -19,7 +19,7 @@ Then the user interface would show up. please follow the instructions:
  The searching process may take a while, and when it finishes, a new window would appear, with the visualized graph in it. The graph can be zoomed in or zoomed out with the tools it provides at down side.
 
  If you want to send a message to one of your followers, you could input his name in the text box, and write your message, then click on send button. Again, when input the name, please remember to clear the default space first.
-The rt-polaritydata is the training data set for the Naive Bayes Classifier.
+The rt-polaritydata is the training data set for the Naive Bayes Classifier, which comes from http://www.cs.cornell.edu/People/pabo/movie-review-data/.
 
 Note:
 =====
